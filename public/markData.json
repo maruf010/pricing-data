@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "marks": {
+            "physics": 85,
+            "chemistry": 78,
+            "math": 92
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "marks": {
+            "physics": 75,
+            "chemistry": 82,
+            "math": 88
+        }
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "marks": {
+            "physics": 90,
+            "chemistry": 91,
+            "math": 95
+        }
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "marks": {
+            "physics": 60,
+            "chemistry": 65,
+            "math": 70
+        }
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "marks": {
+            "physics": 88,
+            "chemistry": 79,
+            "math": 84
+        }
+    },
+    {
+        "id": 6,
+        "name": "Fiona",
+        "marks": {
+            "physics": 72,
+            "chemistry": 76,
+            "math": 80
+        }
+    },
+    {
+        "id": 7,
+        "name": "George",
+        "marks": {
+            "physics": 95,
+            "chemistry": 89,
+            "math": 90
+        }
+    },
+    {
+        "id": 8,
+        "name": "Hannah",
+        "marks": {
+            "physics": 68,
+            "chemistry": 74,
+            "math": 77
+        }
+    },
+    {
+        "id": 9,
+        "name": "Ian",
+        "marks": {
+            "physics": 82,
+            "chemistry": 85,
+            "math": 89
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jenny",
+        "marks": {
+            "physics": 78,
+            "chemistry": 80,
+            "math": 83
+        }
+    }
+]
