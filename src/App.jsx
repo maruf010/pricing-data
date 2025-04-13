@@ -18,7 +18,7 @@ function App() {
       </header>
       <main className='max-w-7xl mx-auto'>
         <Suspense fallback={
-<span className="loading loading-spinner loading-xl "></span>}>
+          <span className="loading loading-spinner loading-xl "></span>}>
           <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
         </Suspense>
       </main>

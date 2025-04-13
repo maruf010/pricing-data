@@ -17,6 +17,7 @@
         "id": 2,
         "name": "Standard",
         "price": "$49/month",
+        "popular": true,
         "description": "A solid choice for regular users who want group classes and more support.",
         "features": [
             "Everything in Basic",
